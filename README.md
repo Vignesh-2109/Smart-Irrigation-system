@@ -55,7 +55,7 @@ We have implemented Logistic Regression on the NodeMCU for real-time prediction 
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/smart-irrigation-system.git
+    git clone https://github.com/Vignesh-2109/smart-irrigation-system.git
     cd smart-irrigation-system
     ```
 
