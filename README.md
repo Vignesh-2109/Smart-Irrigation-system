@@ -82,4 +82,4 @@ We have implemented Logistic Regression on the NodeMCU for real-time prediction 
 
 
 
-Developed with ❤️ by [Vigensh Maram](https://github.com/Vignesh-2109)
+Developed with ❤️ by [Vignesh Maram](https://github.com/Vignesh-2109)
